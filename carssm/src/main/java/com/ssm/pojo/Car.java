@@ -7,6 +7,9 @@ public class Car {
     private String name;
     private double price;
 
+    public Car(){
+
+    }
     public String getName() {
         return name;
     }
